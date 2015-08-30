@@ -1,12 +1,3 @@
-/* 
-Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional.
-Para ver uma cópia desta licença, visite http://creativecommons.org/licenses/by-sa/4.0/.
-
-Desenvolvido por:
-Renan Galeno <renangaleno@gmail.com>
-Marcos Antuanny <caramarcos@hotmail.com>
-Victor Patrick <vp8_10@hotmail.com>
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <curses.h>
